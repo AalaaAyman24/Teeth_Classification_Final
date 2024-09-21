@@ -83,7 +83,7 @@ The model was deployed using Streamlit to create an interactive web application.
 - **Prediction**: The model predicts the class of the uploaded image and displays the prediction along with the probability.
 
 The deployment script loads the trained model, preprocesses the uploaded image, and displays the results interactively.
-![Example Image](https://github.com/AalaaAyman24/Teeth_Classification_Final/blob/main/Teeth_Disease_Classifier_App.png)
+![Example Image]([https://github.com/AalaaAyman24/Teeth_Classification_Final/blob/main/Teeth_Disease_Classifier_App.png](https://github.com/AalaaAyman24/Water_Segmentation/blob/main/Water_Segmentation_App.png))
 
 ## Usage
 
